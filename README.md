@@ -127,4 +127,4 @@ We welcome contributions! If you're interested in contributing to ArchFlow, plea
 
 ## 📄 License
 
-This project is licensed under the [MIT License](LICENSE) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [GPL-3.0 license](/atterdag/ArchFlow/tree/main#GPL-3.0-1-ov-file) - see the [LICENSE](LICENSE) file for details.
